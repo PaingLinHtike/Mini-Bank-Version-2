@@ -1,6 +1,4 @@
-Here’s a polished, professional, Gen-Z-friendly **README.md** for your **file-based MiniBank system**. It’s clean, complete, and ready for GitHub.
 
----
 
 # 🏦 MiniBank (File-Based Version)
 
